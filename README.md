@@ -11,9 +11,10 @@
 
 # Ссылки 
 
+REST API курсов валют - https://docs.openexchangerates.org/
 
-• REST API курсов валют - https://docs.openexchangerates.org/
-• REST API гифок - https://developers.giphy.com/docs/api#quick-start-guide
+REST API гифок - https://developers.giphy.com/docs/api#quick-start-guide
+
 
 
 # Must Have
