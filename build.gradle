@@ -5,7 +5,7 @@ plugins {
     id 'application'
 }
 
-group 'gif_giver'
+group 'gif_project'
 version '1.0-SNAPSHOT'
 
 java {
